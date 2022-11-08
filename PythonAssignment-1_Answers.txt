@@ -68,10 +68,10 @@ Q16. Write a code that gives following as an output.
 ```
 iNeuroniNeuroniNeuroniNeuron
 ```
-print("iNeuron" *4)
+		print("iNeuron" *4)
 
-for i in range(4):
-	print("iNeuron", end = '')
+		for i in range(4):
+			print("iNeuron", end = '')
 	
 	
 Q17. Write a code to take a number as an input from the user and check if the number is odd or even.
